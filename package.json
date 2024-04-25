@@ -1,0 +1,23 @@
+{
+  "name": "bitbricks",
+  "version": "1.0.0",
+  "description": "Real-Estate Blockchain platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jatinsaini-11/bitbricks.git"
+  },
+  "keywords": [
+    "RealEstate",
+    "blockchain"
+  ],
+  "author": "Bitbricks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jatinsaini-11/bitbricks/issues"
+  },
+  "homepage": "https://github.com/jatinsaini-11/bitbricks#readme"
+}
